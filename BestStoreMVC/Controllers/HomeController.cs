@@ -25,6 +25,8 @@ namespace BestStoreMVC.Controllers
             //new Function Hello
             //    bla bla bla
             //    bla bla bla
+
+            //ouhhhh dah siapppp 100%
             return View("TQ UNOL");
         }
 
