@@ -21,6 +21,12 @@ namespace BestStoreMVC.Controllers
             //if bla balabala
             //        else bala balalalal
             //        error balablaba
+
+            //new Function Hello
+            //    bla bla bla
+            //    bla bla bla
+
+            //ouhhhh dah siapppp 100%
             return View("TQ UNOL");
         }
 
