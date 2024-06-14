@@ -22,6 +22,9 @@ namespace BestStoreMVC.Controllers
             //        else bala balalalal
             //        error balablaba
             return View("TQ UNOL");
+
+            //test1
+            //CRUDE
         }
 
         public IActionResult Privacy()
