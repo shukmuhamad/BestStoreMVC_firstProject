@@ -1,5 +1,7 @@
 ﻿using BestStoreMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Identity.Client;
 using System.Diagnostics;
 
 namespace BestStoreMVC.Controllers
@@ -15,6 +17,10 @@ namespace BestStoreMVC.Controllers
 
         public IActionResult Index()
         {
+            //Function (E-walletBalance)
+            //if bla balabala
+            //        else bala balalalal
+            //        error balablaba
             return View("TQ UNOL");
         }
 
