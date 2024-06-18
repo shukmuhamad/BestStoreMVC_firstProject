@@ -28,6 +28,9 @@ namespace BestStoreMVC.Controllers
 
             //ouhhhh dah siapppp 100%
             return View("TQ UNOL");
+
+            //test1
+            //CRUDE
         }
 
         public IActionResult Privacy()
